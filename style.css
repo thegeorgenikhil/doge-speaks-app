@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Merriweather', serif;
+    background: url(img/doge.jpg);
+}
+
+.app-heading{
+    text-align: center;
+    background-color: rgb(187, 170, 93);
+    padding: 2rem;
+    color: white;
+}
+
+.user-interface{
+    margin: 2rem 30rem;
+}
+
+#input-text{
+    padding: 1rem;
+}
+
+#btn-translate{
+    padding: 1rem;
+    font-size: 1.2rem;
+    background-color: rgb(231, 193, 23);
+    border-radius: 1rem;
+    border:2px solid;
+}
+
+.output-heading{
+    background-color:rgb(145, 121, 15);
+    width: 70%;
+    padding: 1rem;
+    margin: 1rem 0 ;
+    border-radius: 2rem;
+    color: white;
+    font-size: 1.1rem;
+}
+
+#output-area{
+    border:2px solid black;
+    height: 15vh;
+    background-color: white;
+}
+
+.footer{
+    text-align: center;
+    background-color:rgb(187, 170, 93) ;
+    padding: 1rem 2rem 2rem 2rem;
+    color: white;
+}
+
+p{
+    padding: 0 24rem;
+}
