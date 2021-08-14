@@ -31,6 +31,7 @@ body{
     background-color: rgb(231, 193, 23);
     border-radius: 1rem;
     border:2px solid;
+    cursor: pointer;
 }
 
 .output-heading{
